@@ -1,0 +1,7 @@
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+xlrd==2.0.1          # 读 .xls 必需（xlrd 2.x 仅支持 .xls）
+XlsxWriter>=3.1
+dashscope>=1.20      # 通义千问官方 SDK
